@@ -5,6 +5,7 @@ public:
         int right=0;
         int sum=0;
         int ans=INT_MAX;
+        
         for(int i=0;i<nums.size();i++){
             sum+=nums[i];
             while(sum>=target){
