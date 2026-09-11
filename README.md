@@ -31,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/avni774/LeetColSol/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/avni774/LeetColSol/tree/master/0424-longest-repeating-character-replacement) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/avni774/LeetColSol/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
